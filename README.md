@@ -6,7 +6,7 @@
 
 I am eager to continue learning programming, learning new technologies and keep growing as a professional 💻
 
-🌍I'm living in Barcelona but I'm open to rellocate.
+🌍I'm living in Barcelona but I'm open to relocate.
 
 💼Open to new front end opportunities.
 
