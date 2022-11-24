@@ -14,23 +14,12 @@ I am eager to continue learning programming, learning new technologies and keep 
 
 
 
-
-### Skills
-
-<img src="https://user-images.githubusercontent.com/104831553/196232541-571703b7-bba0-4382-8214-d51d4f49d148.png" width="48"> <img src="https://user-images.githubusercontent.com/104831553/196236275-30081ce5-f154-4fe3-8da4-daee8ecec4c0.png" width="48"> <img src="https://user-images.githubusercontent.com/104831553/196236026-4e22c73c-a8dc-47dd-9cda-5a5697c34665.png" width="48"> <img src="https://user-images.githubusercontent.com/104831553/196237077-9f37b011-ff24-43ac-ba42-17ce3f92ea71.png" width="48"> <img src="https://user-images.githubusercontent.com/104831553/196237205-6d510b6e-d4d7-4db1-bc5d-19298d617aff.png" width="48"> <img src="https://user-images.githubusercontent.com/104831553/196236679-b06e1aaa-a82a-4dd5-b253-87242c03d55f.png" width="48"> <img src="https://user-images.githubusercontent.com/104831553/196237394-0a32b8f1-568d-43d8-b46b-9072645eac2e.png" width="48"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_firebase_icon_130606.png" width="48">
+## 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 
 
-
-
-### Socials
-
-<a href="https://www.linkedin.com/in/mariagonzalezcarreno/">
-  <img src="https://user-images.githubusercontent.com/104831553/196241718-cacd75f4-edb0-4161-91b1-e923f40fd254.png" width="48"> 
-</a>
-
-
-
-
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariagonzalezcarreno/) 
 
 
 
